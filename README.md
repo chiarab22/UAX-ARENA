@@ -1,6 +1,22 @@
 # UAX ARENA
 
+Realizado por:
+- Chiara Boccaletti
+- Gabriel Pelegri Riis
+- José Luis Oviedo 
+
 Link al repositorio a la aplicación Android: https://github.com/chiarab22/UAX-ARENA.git
+
+Veremos el desarrollo de UAX ARENA  en Android Studio Code. 
+Principalmente se desarrollan las siguientes pantallas de la aplicación:
+    - Login
+    - Menu
+    - Acerca de...
+    - Jugar (Aquí cargaría una partida del juego, la cuál no se basa esta tarea, en un futruro se desarrollará)
+    - Personajes
+    -LogOut
+Es una aplicación meramnete orientativa de lo que en un futuro no muy lejano, será nuestro juego final.
+
 
 ### Actividad 1: 
 
