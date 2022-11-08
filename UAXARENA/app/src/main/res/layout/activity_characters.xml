@@ -3,16 +3,18 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
 
     <TextView
         android:id="@+id/ch1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/personaje_1"
+        android:textAlignment="center"
+        android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textAlignment="center"
         app:layout_constraintBottom_toTopOf="@+id/ch3"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.164"
@@ -26,10 +28,11 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="128dp"
         android:text="@string/personaje_3"
-        android:textSize="20sp"
-        android:textStyle="bold"
         android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="20sp"
 
+        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.164"
@@ -40,9 +43,10 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/personaje_2"
+        android:textAlignment="center"
+        android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textAlignment="center"
         app:layout_constraintBottom_toTopOf="@+id/ch4"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.772"
@@ -57,9 +61,10 @@
         android:layout_marginEnd="60dp"
         android:layout_marginBottom="128dp"
         android:text="@string/personaje_4"
+        android:textAlignment="center"
+        android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:textAlignment="center"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent" />
 
@@ -70,6 +75,7 @@
         android:text="@string/personajes"
 
         android:textAlignment="center"
+        android:textColor="#000000"
         android:textSize="35sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -110,19 +116,7 @@
         android:layout_height="146dp"
         app:layout_constraintBottom_toTopOf="@+id/ch1"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.124"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0"
-        app:srcCompat="@drawable/ic_baseline_person_24" />
-
-    <ImageView
-        android:id="@+id/img"
-        android:layout_width="122dp"
-        android:layout_height="146dp"
-        app:layout_constraintBottom_toTopOf="@+id/ch1"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.124"
+        app:layout_constraintHorizontal_bias="0.207"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0"
