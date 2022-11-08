@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAX ARENA</string>
+    <string name="email">Email </string>
+    <string name="welcome">WELCOME TO UAX ARENA</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="entry_button">Start the challenge</string>
+    <string name="about">ABOUT THE GAME</string>
+    <string name="play">PLAY</string>
+    <string name="characters">CHARACTERS</string>
+    <string name="logout">LOGOUT</string>
+</resources>
