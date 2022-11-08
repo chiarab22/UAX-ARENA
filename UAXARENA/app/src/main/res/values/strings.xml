@@ -24,4 +24,5 @@
     <string name="personaje_2">Personaje 2</string>
     <string name="personaje_4">Personaje 4</string>
     <string name="personajes">PERSONAJES</string>
+    <string name="contrasena_olvidada">¿Has olvidado la contraseña?</string>
 </resources>

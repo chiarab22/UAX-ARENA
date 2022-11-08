@@ -9,7 +9,7 @@
     <string name="play">PLAY</string>
     <string name="characters">CHARACTERS</string>
     <string name="logout">LOGOUT</string>
-    <string name="menus">Menú</string>
+    <string name="menus">Menu</string>
     <string name="logout1">Logout</string>
     <string name="acercade">ABOUT...</string>
     <string name="texto">Lorem Ipsum is simply dummy text of the printing and
@@ -23,4 +23,5 @@
     <string name="personaje_2">Character  2</string>
     <string name="personaje_4">Character  4</string>
     <string name="personajes">CHARACTERS</string>
+    <string name="contrasena_olvidada">Forgot password?</string>
 </resources>
