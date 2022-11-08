@@ -1,5 +1,6 @@
 package com.example.android.uaxarena;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -24,11 +25,13 @@ public class MainActivity extends AppCompatActivity {
          entry_button.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View view) {
-                 if(email.getText().equals("example@example.com") && password.getText().equals("example@example.com")){
-                     Toast.makeText(MainActivity.this, "Login successful", Toast.LENGTH_LONG).show();
-                 }else{
+                 if(email.getText().toString().equals("example") && password.getText().toString().equals("example")){
+                     Toast.makeText(MainActivity.this,"LOGIN SUCCESSFUL",Toast.LENGTH_SHORT).show();
+                     Intent intent= new Intent(MainActivity.this, Menu.class);
+                     startActivity(intent);
+                }else{
                      Toast.makeText(MainActivity.this, "Login denied", Toast.LENGTH_LONG).show();
-                 }
+                }
              }
          });
     }
