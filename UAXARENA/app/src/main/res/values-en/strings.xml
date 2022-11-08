@@ -9,4 +9,13 @@
     <string name="play">PLAY</string>
     <string name="characters">CHARACTERS</string>
     <string name="logout">LOGOUT</string>
+    <string name="menus">Menú</string>
+    <string name="logout1">Logout</string>
+    <string name="acercade">ABOUT...</string>
+    <string name="texto">Lorem Ipsum is simply dummy text of the printing and
+        typesetting industry. Lorem Ipsum has been the industrys stan
+        dard dummy text ever since the 1500s, when an unknown printer took
+        a galley of type and scrambled it to make a type specimen book.
+        It has survived not only five centuries, but also the leap into electronic
+        typesetting, remaining essentially unchanged.</string>
 </resources>
