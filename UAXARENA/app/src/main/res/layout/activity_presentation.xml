@@ -24,8 +24,8 @@
 
     <TextView
         android:id="@+id/about_us"
-        android:layout_width="406dp"
-        android:layout_height="383dp"
+        android:layout_width="331dp"
+        android:layout_height="374dp"
         android:text="@string/texto"
         android:textAlignment="center"
         android:textColor="@color/white"
@@ -33,10 +33,9 @@
         android:textStyle="italic"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.294"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.457" />
+        app:layout_constraintTop_toBottomOf="@+id/title_about"
+        app:layout_constraintVertical_bias="0.218" />
 
     <Button
         android:id="@+id/exit"

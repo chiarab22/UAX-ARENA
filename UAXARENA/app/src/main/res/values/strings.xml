@@ -19,4 +19,9 @@
         la codificó para hacer un libro de muestras tipográficas. Ha sobrevivido
         no solo cinco siglos, sino también el salto a la composición tipográfica
         electrónica, permaneciendo esencialmente sin cambios.</string>
+    <string name="personaje_1">Personaje 1</string>
+    <string name="personaje_3">Personaje 3</string>
+    <string name="personaje_2">Personaje 2</string>
+    <string name="personaje_4">Personaje 4</string>
+    <string name="personajes">PERSONAJES</string>
 </resources>

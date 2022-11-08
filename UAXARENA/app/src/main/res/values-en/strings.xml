@@ -18,4 +18,9 @@
         a galley of type and scrambled it to make a type specimen book.
         It has survived not only five centuries, but also the leap into electronic
         typesetting, remaining essentially unchanged.</string>
+    <string name="personaje_1">Character 1</string>
+    <string name="personaje_3">Character 3</string>
+    <string name="personaje_2">Character  2</string>
+    <string name="personaje_4">Character  4</string>
+    <string name="personajes">CHARACTERS</string>
 </resources>
