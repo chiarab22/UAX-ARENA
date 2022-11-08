@@ -27,7 +27,7 @@ Aquí podemos realizar un sencillo login de nuestro usuario del juego con un cor
 
 ### Actividad 2:
 
-El menú encontramos 4 opciones que están desarrolladas a lo largo de las actvidades siguientes.
+El menú encontramos 4 opciones que están desarrolladas a lo largo de las actividades siguientes.
 
 <img width="244" alt="menu" src="https://user-images.githubusercontent.com/98779707/200663749-e7fcc385-9d7d-4c02-8510-ae3b9d0e49ba.png">
 
@@ -39,7 +39,7 @@ En el acerca de... podremos disfrutar de una explicación de lo que será nuestr
 
 ### ACtividad 4:
 
-En esta actividad el usuario podrá ver las estadísticas, daño, habilidades y descripción del personaje elegido.
+En esta actividad, el usuario podrá ver las estadísticas, daño, habilidades y descripción del personaje elegido.
 
 <img width="245" alt="Personajes" src="https://user-images.githubusercontent.com/98779707/200663862-c2984be5-4d3b-4b8a-9aeb-93c3e1e464f8.png">
 
