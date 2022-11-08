@@ -14,8 +14,9 @@ Principalmente se desarrollan las siguientes pantallas de la aplicación:
 - Acerca de...
 - Jugar (Aquí cargaría una partida del juego, la cuál no se basa esta tarea, en un futruro se desarrollará)
 - Personajes
-- LogOut
-Es una aplicación meramnete orientativa de lo que en un futuro no muy lejano, será nuestro juego final.
+- Logout
+- 
+Es una aplicación meramente orientativa de lo que en un futuro no muy lejano, será nuestro juego final.
 
 
 ### Actividad 1: 
