@@ -83,7 +83,7 @@
         android:id="@+id/menu"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Menú"
+        android:text="@string/menus"
         android:textColor="@color/white"
         android:textSize="25sp"
         android:textStyle="bold"
