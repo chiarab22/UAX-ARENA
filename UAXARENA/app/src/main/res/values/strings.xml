@@ -9,4 +9,20 @@
     <string name="play">JUGAR</string>
     <string name="characters">PERSONAJES</string>
     <string name="logout">CERRAR SESIÓN</string>
+    <string name="menus">Menú</string>
+    <string name="logout1">Logout</string>
+    <string name="acercade">ACERCA DE...</string>
+    <string name="texto">Lorem Ipsum es simplemente un texto ficticio
+        de la industria de la impresión y la composición tipográfica.
+        Lorem Ipsum ha sido el texto ficticio estándar de la industria desde
+        el año 1500, cuando un impresor desconocido tomó una galera de tipos y
+        la codificó para hacer un libro de muestras tipográficas. Ha sobrevivido
+        no solo cinco siglos, sino también el salto a la composición tipográfica
+        electrónica, permaneciendo esencialmente sin cambios.</string>
+    <string name="personaje_1">Hot Cappuccino</string>
+    <string name="personaje_3">Personaje 3</string>
+    <string name="personaje_2">Personaje 2</string>
+    <string name="personaje_4">Personaje 4</string>
+    <string name="personajes">PERSONAJES</string>
+    <string name="contrasena_olvidada">¿Has olvidado la contraseña?</string>
 </resources>

@@ -25,8 +25,8 @@ public class MainActivity extends AppCompatActivity {
          entry_button.setOnClickListener(new View.OnClickListener() {
              @Override
              public void onClick(View view) {
-                 if(email.getText().toString().equals("example") && password.getText().toString().equals("example")){
-                     Toast.makeText(MainActivity.this,"LOGIN SUCCESSFUL",Toast.LENGTH_SHORT).show();
+                 if(email.getText().toString().equals("example@example.com") && password.getText().toString().equals("example")){
+                     Toast.makeText(MainActivity.this,"Login successful",Toast.LENGTH_SHORT).show();
                      Intent intent= new Intent(MainActivity.this, Menu.class);
                      startActivity(intent);
                 }else{
