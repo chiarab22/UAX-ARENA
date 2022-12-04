@@ -24,4 +24,11 @@
     <string name="personaje_4">Character  4</string>
     <string name="personajes">CHARACTERS</string>
     <string name="contrasena_olvidada">Forgot password?</string>
+    <string name="mapa_normal">Normal map</string>
+    <string name="mapa_hybrida">Hybrid map</string>
+    <string name="mapa_satelitar">Satellitar map</string>
+    <string name="mapa_terrestre">Terrain map</string>
+    <string name="lat_long_snippet">Lat: %1$.5f, Long: %2$.5f</string>
+    <string name="dropped_pin">Dropped Pin</string>
+    <string name="poi">poi</string>
 </resources>
