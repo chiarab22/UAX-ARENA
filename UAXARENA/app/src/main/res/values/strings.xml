@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name"></string>
+    <string name="app_name">UAX ARENA</string>
     <string name="email">Correo</string>
     <string name="welcome">BIENVENIDO A UAX ARENA</string>
     <string name="login">Registrarse</string>
@@ -11,7 +11,7 @@
     <string name="logout">CERRAR SESIÓN</string>
     <string name="menus">Menú</string>
     <string name="logout1">Logout</string>
-    <string name="acercade">ACERCA DE...</string>
+    <string name="acercade">ACERCA DE…</string>
     <string name="texto">Lorem Ipsum es simplemente un texto ficticio
         de la industria de la impresión y la composición tipográfica.
         Lorem Ipsum ha sido el texto ficticio estándar de la industria desde
