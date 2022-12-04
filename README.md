@@ -7,6 +7,9 @@ Realizado por:
 
 Link al repositorio a la aplicación Android: https://github.com/chiarab22/UAX-ARENA.git
 
+
+### Primera Parte:
+
 Veremos el desarrollo de UAX ARENA  en Android Studio Code. 
 Principalmente se desarrollan las siguientes pantallas de la aplicación:
 - Login
@@ -46,3 +49,7 @@ En esta actividad, el usuario podrá ver las estadísticas, daño, habilidades y
 
 
 Como se ha podido apreciar a lo largo de la memoria la APP se puede leer tanto en inglés como castellano, dependiendo del idioma elegido en el sistema que lo ejecuta.
+
+
+### Segunda parte:
+Hemos añadido una activity que simula un mapa para que interactue con el usuario y un menú utilizando el ActionBar
