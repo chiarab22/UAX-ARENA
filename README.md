@@ -52,4 +52,5 @@ Como se ha podido apreciar a lo largo de la memoria la APP se puede leer tanto e
 
 
 ### Segunda parte:
-Hemos añadido una activity que simula un mapa para que interactue con el usuario y un menú utilizando el ActionBar
+- Hemos añadido una activity que simula el registro de un nuevo usuario a la aplicación.
+- Hemos añadido un menú accessible desde el ActionBar que simula el mismo comportamiento que el menú desplegado con anterioridad
