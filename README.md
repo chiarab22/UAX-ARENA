@@ -53,4 +53,14 @@ Como se ha podido apreciar a lo largo de la memoria la APP se puede leer tanto e
 
 ### Segunda parte:
 - Hemos añadido una activity que simula el registro de un nuevo usuario a la aplicación.
+
+<img width="269" alt="sign up" src="https://user-images.githubusercontent.com/98779707/207403655-23d412d0-a2ef-4e39-9dea-c5ef1e9cd3bd.png">
+
+
+
 - Hemos añadido un menú accessible desde el ActionBar que simula el mismo comportamiento que el menú desplegado con anterioridad
+
+- Hemos añadido un activity para recuperar una cuenta si el usuario se olvida de la contraseña
+
+<img width="258" alt="forgot password" src="https://user-images.githubusercontent.com/98779707/207403817-d0d800b5-273b-4209-bf8e-bb937cf7fd15.png">
+
