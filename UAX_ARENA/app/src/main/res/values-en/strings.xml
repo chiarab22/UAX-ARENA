@@ -25,4 +25,6 @@
     <string name="personajes">CHARACTERS</string>
     <string name="contrasena_olvidada">Forgot password?</string>
     <string name="registro">Are you new? Become a member of this family</string>
+    <string name="registrarse">CREATE AN ACCOUNT</string>
+    <string name="registrarse_2">SIGN UP</string>
 </resources>

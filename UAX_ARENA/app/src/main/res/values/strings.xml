@@ -26,4 +26,6 @@
     <string name="personajes">PERSONAJES</string>
     <string name="contrasena_olvidada">¿Has olvidado la contraseña?</string>
     <string name="registro">¿Eres nuevo usuario? Registrate ahora...</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="registrarse_2">REGISTRARSE</string>
 </resources>
