@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     private EditText password;
     private Button entry_button;
     private Button register_button;
+    private Button password_button;
     private Intent intent;
 
     @Override
@@ -28,6 +29,15 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 intent = new Intent(MainActivity.this, Registration.class);
+                startActivity(intent);
+            }
+        });
+
+        password_button = (Button) findViewById(R.id.contr);
+        password_button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                intent = new Intent(MainActivity.this, Password.class);
                 startActivity(intent);
             }
         });

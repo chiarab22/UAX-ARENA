@@ -28,4 +28,7 @@
     <string name="registro">¿Eres nuevo usuario? Registrate ahora...</string>
     <string name="registrarse">REGISTRARSE</string>
     <string name="registrarse_2">REGISTRARSE</string>
+    <string name="correo_enviar">Introduzca el correo</string>
+    <string name="enviar">ENVIAR</string>
+    <string name="inicio">INICIO</string>
 </resources>

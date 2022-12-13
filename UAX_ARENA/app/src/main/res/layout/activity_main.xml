@@ -80,10 +80,10 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.746" />
 
-    <TextView
+    <Button
         android:id="@+id/contr"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="283dp"
+        android:layout_height="24dp"
         android:layout_marginBottom="168dp"
         android:background="#5B0B0B0B"
         android:text="@string/contrasena_olvidada"
