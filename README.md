@@ -26,7 +26,8 @@ Es una aplicación meramente orientativa de lo que en un futuro no muy lejano, s
 
 Aquí podemos realizar un sencillo login de nuestro usuario del juego con un correo y nuestra password: example@example.com / example
 
-<img width="234" alt="login" src="https://user-images.githubusercontent.com/98779707/200663609-ea9972c4-53b2-498d-89f0-dfd2cdb52584.png">
+<img width="248" alt="uaxarena" src="https://user-images.githubusercontent.com/98779707/207410484-8feed7f0-131c-4427-9e7a-6c1cba4b32ae.png">
+
 
 ### Actividad 2:
 
