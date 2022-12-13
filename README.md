@@ -41,13 +41,11 @@ En el acerca de... podremos disfrutar de una explicación de lo que será nuestr
 
 <img width="244" alt="acerca de" src="https://user-images.githubusercontent.com/98779707/200663779-fa9f4a21-3ccf-4416-ab13-5496768dab78.png">
 
-### ACtividad 4:
+### Actividad 4:
 
 En esta actividad, el usuario podrá ver las estadísticas, daño, habilidades y descripción del personaje elegido.
 
-<img width="245" alt="Personajes" src="https://user-images.githubusercontent.com/98779707/200663862-c2984be5-4d3b-4b8a-9aeb-93c3e1e464f8.png">
-
-
+<img width="286" alt="personajes" src="https://user-images.githubusercontent.com/98779707/207410708-4b8342dc-96d9-4758-b58a-8e56201c7ef6.png">
 
 Como se ha podido apreciar a lo largo de la memoria la APP se puede leer tanto en inglés como castellano, dependiendo del idioma elegido en el sistema que lo ejecuta.
 
