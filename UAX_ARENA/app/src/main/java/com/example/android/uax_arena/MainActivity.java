@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         password_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "REGISTRATION COMPLETED", Toast.LENGTH_SHORT).show();
                 intent = new Intent(MainActivity.this, Password.class);
                 startActivity(intent);
             }
