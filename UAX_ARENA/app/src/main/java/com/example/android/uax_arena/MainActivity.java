@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     private Button register_button;
     private Button password_button;
     private Intent intent;
-    DBHelper DB;
+    private DBHelper DB;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,15 +53,15 @@ public class MainActivity extends AppCompatActivity {
                 String mail = email.getText().toString();
                 String pass = password.getText().toString();
 
-                if(email.equals("")||pass.equals(""))
+                if (email.equals("") || pass.equals(""))
                     Toast.makeText(MainActivity.this, "Please enter all the fields", Toast.LENGTH_SHORT).show();
-                else{
+                else {
                     Boolean checkuserpass = DB.checkMailPassword(mail, pass);
-                    if(checkuserpass==true){
+                    if (checkuserpass == true) {
                         Toast.makeText(MainActivity.this, "Sign in successfull", Toast.LENGTH_SHORT).show();
-                        Intent intent  = new Intent(getApplicationContext(), Menu.class);
+                        Intent intent = new Intent(getApplicationContext(), Menu.class);
                         startActivity(intent);
-                    }else{
+                    } else {
                         Toast.makeText(MainActivity.this, "Invalid Credentials", Toast.LENGTH_SHORT).show();
                     }
                 }
