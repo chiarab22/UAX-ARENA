@@ -28,6 +28,7 @@
     <string name="registrarse">CREATE AN ACCOUNT</string>
     <string name="registrarse_2">SIGN UP</string>
     <string name="correo_enviar">Please, type your email</string>
-    <string name="enviar">SEND</string>
+    <string name="enviar">RESET</string>
     <string name="inicio">HOME</string>
+    <string name="confirmar">CONFIRM</string>
 </resources>
