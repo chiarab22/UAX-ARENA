@@ -1,2 +1,2 @@
-# Call Of Duty - Android Game
+# Call of Duty - Android Game
 
