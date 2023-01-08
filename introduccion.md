@@ -1,6 +1,10 @@
-# Introducción
+---
+description: >-
+  Esta web promocional desplegada en Android sirve para promocionar el juego. Y
+  dar una ideal al usuario de la experiencia de batalla.
+---
 
-Esta web promocional desplegada en Android sirve para  promocionar el juego.
+# Introducción
 
 Para su soporte y desarrollo hemos usado aplicaciones como:
 
