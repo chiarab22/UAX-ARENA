@@ -20,9 +20,9 @@
         no solo cinco siglos, sino también el salto a la composición tipográfica
         electrónica, permaneciendo esencialmente sin cambios.</string>
     <string name="personaje_1">Hot Cappuccino</string>
-    <string name="personaje_3">Personaje 3</string>
-    <string name="personaje_2">Personaje 2</string>
-    <string name="personaje_4">Personaje 4</string>
+    <string name="personaje_3">Makarov</string>
+    <string name="personaje_2">Soap</string>
+    <string name="personaje_4">Capitan Price</string>
     <string name="personajes">PERSONAJES</string>
     <string name="contrasena_olvidada">¿Has olvidado la contraseña?</string>
     <string name="registro">¿Eres nuevo usuario? Registrate ahora...</string>
@@ -32,4 +32,6 @@
     <string name="enviar">RESETEAR</string>
     <string name="inicio">INICIO</string>
     <string name="confirmar">CONFIRMAR</string>
+    <string name="proximamente">PRÓXIMAMENTE...</string>
+    <string name="cambia_tu_contrasena">Cambia tu contraseña</string>
 </resources>

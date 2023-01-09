@@ -11,13 +11,17 @@
         android:id="@+id/textView"
         android:layout_width="255dp"
         android:layout_height="34dp"
-        android:text="TextView"
+        android:text="@string/cambia_tu_contrasena"
+        android:textAlignment="center"
+        android:textColor="@color/black"
+        android:textSize="25sp"
+        android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/new_password"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.291"
+        app:layout_constraintHorizontal_bias="0.102"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.22" />
+        app:layout_constraintVertical_bias="0.311" />
 
     <EditText
         android:id="@+id/new_password"
@@ -33,12 +37,13 @@
         app:layout_constraintHorizontal_bias="0.079"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.397" />
+        app:layout_constraintVertical_bias="0.243" />
 
     <EditText
         android:id="@+id/new_repassword"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:autofillHints=""
         android:background="@color/white"
         android:ems="10"
         android:hint="@string/password"
@@ -49,8 +54,7 @@
         app:layout_constraintHorizontal_bias="0.079"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.451"
-        android:autofillHints="" />
+        app:layout_constraintVertical_bias="0.299" />
 
     <Button
         android:id="@+id/confirmar"
@@ -59,8 +63,8 @@
         android:text="@string/confirmar"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.142"
+        app:layout_constraintHorizontal_bias="0.22"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/new_repassword"
-        app:layout_constraintVertical_bias="0.17" />
+        app:layout_constraintVertical_bias="0.06" />
 </android.support.constraint.ConstraintLayout>
