@@ -19,15 +19,18 @@
         It has survived not only five centuries, but also the leap into electronic
         typesetting, remaining essentially unchanged.</string>
     <string name="personaje_1">Hot Cappuccino</string>
-    <string name="personaje_3">Character 3</string>
-    <string name="personaje_2">Character  2</string>
-    <string name="personaje_4">Character  4</string>
+    <string name="personaje_3">Makarov</string>
+    <string name="personaje_2">Soap</string>
+    <string name="personaje_4">Capitan Price</string>
     <string name="personajes">CHARACTERS</string>
     <string name="contrasena_olvidada">Forgot password?</string>
     <string name="registro">Are you new? Become a member of this family</string>
     <string name="registrarse">CREATE AN ACCOUNT</string>
     <string name="registrarse_2">SIGN UP</string>
     <string name="correo_enviar">Please, type your email</string>
-    <string name="enviar">SEND</string>
+    <string name="enviar">RESET</string>
     <string name="inicio">HOME</string>
+    <string name="confirmar">CONFIRM</string>
+    <string name="proximamente">NEXT...</string>
+    <string name="cambia_tu_contrasena">Change your password</string>
 </resources>
