@@ -9,5 +9,5 @@ description: >-
 Para su soporte y desarrollo hemos usado aplicaciones como:
 
 * Android Studio&#x20;
-* Base de Datos en local
+* Base de Datos en local (SQLiteDataBase)
 * Emuladores virtuales y físicos
