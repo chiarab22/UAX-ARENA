@@ -12,6 +12,7 @@ Ahora veremos una breve explicación de las pantallas, en las cuáles tenemos la
 
 * Log In&#x20;
 * Registro
+* Contraseña Olvidada
 * Inicio
 * Personajes
 * Jugar
