@@ -1,4 +1,13 @@
 package com.example.android.uax_arena;
 
-public class Juego {
+import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
+
+public class Juego extends AppCompatActivity {
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_juego);
+
+    }
 }

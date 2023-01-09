@@ -31,7 +31,6 @@
         android:ems="10"
         android:hint="@string/password"
         android:inputType="textPassword"
-        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.079"
@@ -48,7 +47,6 @@
         android:ems="10"
         android:hint="@string/password"
         android:inputType="textPassword"
-        android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.079"
@@ -67,4 +65,17 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/new_repassword"
         app:layout_constraintVertical_bias="0.06" />
+
+    <TextView
+        android:id="@+id/email_extra"
+        android:layout_width="217dp"
+        android:layout_height="27dp"
+        android:background="@color/white"
+        android:ems="10"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.028"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.19" />
 </android.support.constraint.ConstraintLayout>

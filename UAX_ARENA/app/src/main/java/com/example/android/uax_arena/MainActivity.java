@@ -39,7 +39,6 @@ public class MainActivity extends AppCompatActivity {
         password_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MainActivity.this, "REGISTRATION COMPLETED", Toast.LENGTH_SHORT).show();
                 intent = new Intent(MainActivity.this, Password.class);
                 startActivity(intent);
             }
@@ -66,13 +65,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                 }
             }
-               /* if (email.getText().toString().equals("example@example.com") && password.getText().toString().equals("example")) {
-                    Toast.makeText(MainActivity.this, "LOGIN SUCCESSFUL", Toast.LENGTH_SHORT).show();
-                    intent = new Intent(MainActivity.this, Menu.class);
-                    startActivity(intent);
-                } else {
-                    Toast.makeText(MainActivity.this, "LOGIN DENIED", Toast.LENGTH_LONG).show();
-                }*/
         });
 
 

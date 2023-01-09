@@ -18,7 +18,7 @@ public class Menu extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public  void playGame(View view){
+    public  void jugar(View view){
         intent = new Intent(Menu.this, Juego.class);
         startActivity(intent);
 

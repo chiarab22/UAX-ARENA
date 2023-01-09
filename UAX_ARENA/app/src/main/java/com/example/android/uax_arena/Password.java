@@ -34,7 +34,7 @@ public class Password  extends AppCompatActivity {
                 Boolean checkuser = DB.checkEmail(mail);
 
                 if(checkuser==true){
-                    intent = new Intent(getApplicationContext(), ResetActivity.class);
+                    intent = new Intent(Password.this, ResetActivity.class);
                     intent.putExtra("email",mail);
                     startActivity(intent);
                 }else{
