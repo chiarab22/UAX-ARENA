@@ -55,7 +55,7 @@ public class DBHelper extends SQLiteOpenHelper {
         SQLiteDatabase MyDB = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
         contentValues.put("password", password);
-        long result = MyDB.update("users",  contentValues, "mail = ?", new String[] {mail});
+        long result = MyDB.update("users",  contentValues, "email = ?", new String[] {mail});
         if(result==-1) return false;
         else
             return true;

@@ -33,7 +33,7 @@ public class Password  extends AppCompatActivity {
                 String mail = email.getText().toString();
                 Boolean checkuser = DB.checkEmail(mail);
 
-                if(checkuser==true){
+                if(checkuser){
                     intent = new Intent(Password.this, ResetActivity.class);
                     intent.putExtra("email",mail);
                     startActivity(intent);

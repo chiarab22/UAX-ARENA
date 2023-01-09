@@ -12,7 +12,7 @@ import android.widget.Toast;
 public class ResetActivity extends AppCompatActivity {
     TextView email;
     EditText pass, repass;
-    Button btnconfirm;
+    Button confirm;
     DBHelper DB;
 
     @Override
@@ -23,13 +23,13 @@ public class ResetActivity extends AppCompatActivity {
         email = (TextView) findViewById(R.id.email_extra);
         pass = (EditText) findViewById(R.id.new_password);
         repass = (EditText) findViewById(R.id.new_repassword);
-        btnconfirm = (Button) findViewById(R.id.confirmar);
+        confirm = (Button) findViewById(R.id.confirmar);
         DB  = new DBHelper(this);
 
         Intent intent = getIntent();
         email.setText(intent.getStringExtra("email"));
 
-        btnconfirm.setOnClickListener(new View.OnClickListener() {
+        confirm.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
 
@@ -39,8 +39,8 @@ public class ResetActivity extends AppCompatActivity {
 
                 if(password.equals(repassword)) {
                     Boolean checkPassUpdate = DB.updatepassword(mail, password);
-                    if (checkPassUpdate == true) {
-                        Intent intent = new Intent(ResetActivity.this, MainActivity.class);
+                    if (checkPassUpdate) {
+                       Intent intent = new Intent(ResetActivity.this, MainActivity.class);
                         startActivity(intent);
                         Toast.makeText(ResetActivity.this, "Password uptated successfully", Toast.LENGTH_SHORT).show();
                     } else {
