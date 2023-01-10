@@ -5,3 +5,4 @@
 * [Diseño y Arquitectura](diseno-y-arquitectura.md)
 * [Figma](figma.md)
 * [Cómo lo hemos construido](como-lo-hemos-construido.md)
+* [Conclusiones](conclusiones.md)
